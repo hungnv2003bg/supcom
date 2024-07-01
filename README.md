@@ -6,6 +6,9 @@ Tailwind VPN Landingpage is an open source, apps landing page template for [Tail
 
 ![Landing Page 2](./landingpage2.png)
 ![Landing Page 3](./landingpage3.png)
+![Landing Page 4](./landingpage4.png)
+![Landing Page 5](./landingpage5.png)
+![Landing Page 6](./landingpage6.png)
 
 ## Getting Started
 
